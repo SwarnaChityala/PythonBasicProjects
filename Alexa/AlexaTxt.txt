@@ -1,0 +1,9 @@
+pip install SpeechRecognition
+pip install pyttsx3
+pip install PyAudio.  If you got any error while install PyAudio
+First you need to install -> pip install pipwin
+next -> pipwin install Pyaudio.
+
+pip install pywhatkit
+pip install wikipedia
+pip install pyjokes
